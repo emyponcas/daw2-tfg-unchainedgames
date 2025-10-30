@@ -6,7 +6,7 @@
 > - Enrique Mármol Gómez
 
 ## 📱 Mockup (Diseño UI/UX)
-[Ver prototipo en Figma](https://www.figma.com/design/PiO1zgDdD1YLhFp7IXDeYE/MockUp-y-dise%C3%B1o-para-Unchained-Games?node-id=0-1&t=UNEbMsElQq4367jk-1)
+[Ver prototipo en Figma](https://www.figma.com/design/4jEvlPLxftqh9DuoLpLfLD/Sin-t%C3%ADtulo?node-id=0-1&t=UNEbMsElQq4367jk-1)
 
 ## 🛠️ Tecnologías
 - **Backend**: Java, Spring Boot, Maven
